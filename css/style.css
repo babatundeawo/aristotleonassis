@@ -1,0 +1,43 @@
+body {
+  background-color: #ffffff;
+  font-family: sans-serif;
+  color: rgb(77, 77, 74);
+}
+main {
+  background-color: #e3e3e3;
+  border-radius: 5px;
+  margin: 30px 10px;
+}
+header {
+  margin: auto;
+  text-align: center;
+}
+section {
+  border: 1px solid #b3b3b3;
+  margin: 20px;
+  border-radius: 5px;
+  padding: 3px;
+}
+img {
+  border-radius: 50%;
+}
+figure {
+  margin: auto;
+  text-align: center;
+}
+figcaption {
+  display: block;
+  background-color: #b3b3b3;
+  border-radius: 1px;
+  text-align: center;
+  margin: 10px;
+  padding: 0;
+  line-height: 40px;
+}
+.read {
+  text-align: center;
+  font-style: italic;
+}
+footer {
+  font-style: italic;
+}
